@@ -1,0 +1,11 @@
+cz.muni.fi.pa165.library
+cz.muni.fi.pa165.library.config
+cz.muni.fi.pa165.library.dao
+cz.muni.fi.pa165.library.dto
+cz.muni.fi.pa165.library.entity
+cz.muni.fi.pa165.library.enums
+cz.muni.fi.pa165.library.exception
+cz.muni.fi.pa165.library.exceptions
+cz.muni.fi.pa165.library.facade
+cz.muni.fi.pa165.library.mapping
+cz.muni.fi.pa165.library.service
