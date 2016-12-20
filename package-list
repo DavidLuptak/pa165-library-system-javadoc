@@ -5,7 +5,16 @@ cz.muni.fi.pa165.library.dto
 cz.muni.fi.pa165.library.entity
 cz.muni.fi.pa165.library.enums
 cz.muni.fi.pa165.library.exception
-cz.muni.fi.pa165.library.exceptions
 cz.muni.fi.pa165.library.facade
 cz.muni.fi.pa165.library.mapping
+cz.muni.fi.pa165.library.rest
+cz.muni.fi.pa165.library.rest.controller
+cz.muni.fi.pa165.library.rest.exception
+cz.muni.fi.pa165.library.rest.mixin
+cz.muni.fi.pa165.library.sampledata
 cz.muni.fi.pa165.library.service
+cz.muni.fi.pa165.library.web.config
+cz.muni.fi.pa165.library.web.controllers
+cz.muni.fi.pa165.library.web.converter
+cz.muni.fi.pa165.library.web.exceptions
+cz.muni.fi.pa165.library.web.validator
