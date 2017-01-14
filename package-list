@@ -13,8 +13,9 @@ cz.muni.fi.pa165.library.rest.exception
 cz.muni.fi.pa165.library.rest.mixin
 cz.muni.fi.pa165.library.sampledata
 cz.muni.fi.pa165.library.service
+cz.muni.fi.pa165.library.validation
 cz.muni.fi.pa165.library.web.config
-cz.muni.fi.pa165.library.web.controllers
+cz.muni.fi.pa165.library.web.controller
 cz.muni.fi.pa165.library.web.converter
-cz.muni.fi.pa165.library.web.exceptions
+cz.muni.fi.pa165.library.web.exception
 cz.muni.fi.pa165.library.web.validator
